@@ -1,5 +1,4 @@
-# credit_card_default
-Default of Credit Card Clients 
+# Default of Credit Card Clients 
 
 About Dataset
 Dataset Information
