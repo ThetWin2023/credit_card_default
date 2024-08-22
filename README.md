@@ -14,7 +14,7 @@ This project utlizes JavaScript libraries and HTML to create visualizations base
 - Credit Utilization Ratio
 - Monthly Spending Trend
 - Account Balance Payment Pattern
-- 
+  
 
 Dataset Information
 
