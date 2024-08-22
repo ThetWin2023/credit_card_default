@@ -4,7 +4,7 @@
 ### Members: Jimmy Kim, Ernawaty Ernawaty, Mounika Lingala, Judy Pin, Thet Win
 ### Default of Credit Card Clients 
 
-This project utlizes JavaScript libraries and HTML to create visualizations based on the Credit Card Default of clients with analysis on:
+This project utlizes JavaScript libraries and HTML to create visualizations based on the following analysis which pertain to Credit Card Default of clients:
 
 - Age Groups
 - Education
