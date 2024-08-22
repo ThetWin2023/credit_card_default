@@ -1,4 +1,4 @@
-# Data Analytics and Visulization Bootcamp
+# Data Analytics and Visualization Bootcamp
 ## University of Toronto
 ### Project 3 - Group 1
 ### Members: Jimmy Kim, Ernawaty Ernawaty, Mounika Lingala, Judy Pin, Thet Win
