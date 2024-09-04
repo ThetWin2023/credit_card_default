@@ -1,8 +1,7 @@
 # Data Analytics and Visualization Bootcamp
 ## University of Toronto
-### Project 3 - Group 1
+### Project 3
 ### Date: August 21, 2024
-### Members: Jimmy Kim, Ernawaty Ernawaty, Mounika Lingala, Judy Pin, Thet Win
 ### Default of Credit Card Clients 
 
 This project utilizes JavaScript libraries and HTML to create visualizations based on the following analysis pertaining to the Default of Credit Card Clients.
