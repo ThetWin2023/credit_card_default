@@ -4,7 +4,7 @@
 ### Date: August 21, 2024
 ### Default of Credit Card Clients 
 
-This project utilizes JavaScript libraries and HTML to create visualizations based on the following analysis pertaining to the Default of Credit Card Clients.
+This project utilizes JavaScript libraries and HTML to create visualizations based on the following analysis pertaining to the Default of Credit Card Clients. Data organization and cleaning is done using Pandas and Python. 
 
 - Age Groups
 - Education
